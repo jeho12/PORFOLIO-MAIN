@@ -1,0 +1,15 @@
+* {
+    background-color: rgb(94, 182, 182);
+    font-style: italic;
+}
+
+.image1 {
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+    border-radius: 20%;
+    flex: right;
+    display: flexbox;
+    float: right;
+    margin: 20 20 20 20;
+  }
