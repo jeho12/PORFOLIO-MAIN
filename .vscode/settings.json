@@ -1,3 +1,4 @@
 {
-    "workbench.preferredHighContrastColorTheme": "Community Material Theme"
+    "workbench.preferredHighContrastColorTheme": "Community Material Theme",
+    "liveServer.settings.port": 5503
 }
